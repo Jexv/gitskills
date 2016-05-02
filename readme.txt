@@ -1,1 +1,1 @@
-Creating a new branch is quick AND simple.Master
+Creating a new branch is quick and simple.
